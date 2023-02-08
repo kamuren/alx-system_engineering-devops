@@ -5,3 +5,4 @@
 4-listmorefiles - display files including the hidden ones in long format
 5-listfilesdigitonly - display long format with users and groups in numbers
 6-firstdirectory - makes first directory in the /tmp folder
+7-movethatfile - moves the file betty to /tmp/my_first_directory
