@@ -3,3 +3,4 @@
 2-bring_me_home - change to the home directory
 3-listfiles - display current directory content in long format
 4-listmorefiles - display files including the hidden ones in long format
+5-listfilesdigitonly - display long format with users and groups in numbers
