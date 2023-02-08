@@ -9,4 +9,5 @@
 8-firstdelete - deletes the file betty
 9-firstdirdeletion - deletes my_first_directory
 10-back - script that changes the working directory to the previous one.
-11-lists - lists multiple directories 
+11-lists - lists multiple directories
+12-file_type - prints the type of file  
