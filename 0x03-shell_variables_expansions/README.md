@@ -7,3 +7,4 @@
 6 - create local valuable
 7 - create a global variable
 8 - addition of TRUEKNOWLEDGE and 128
+9 - divide power with divide
