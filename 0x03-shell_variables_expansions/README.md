@@ -9,3 +9,4 @@
 8 - addition of TRUEKNOWLEDGE and 128
 9 - divide power with divide
 10 - love exponent breath
+11 - convert to decimal
