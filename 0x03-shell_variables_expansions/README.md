@@ -5,3 +5,4 @@
 4 - print global environments
 5 - set to display local variable and function
 6 - create local valuable
+7 - create a global variable
