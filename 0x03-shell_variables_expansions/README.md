@@ -4,3 +4,4 @@
 3 - show number of directories in PATH
 4 - print global environments
 5 - set to display local variable and function
+6 - create local valuable
