@@ -12,3 +12,4 @@
 11 - convert to decimal
 12 - print combination of two letters
 13 - print 2 decimal places
+14 - convert decimal to hexadecimal
