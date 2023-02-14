@@ -6,3 +6,4 @@
 5 - set to display local variable and function
 6 - create local valuable
 7 - create a global variable
+8 - addition of TRUEKNOWLEDGE and 128
