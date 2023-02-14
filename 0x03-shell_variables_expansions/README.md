@@ -10,3 +10,4 @@
 9 - divide power with divide
 10 - love exponent breath
 11 - convert to decimal
+12 - print combination of two letters
